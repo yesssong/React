@@ -34,7 +34,7 @@ function TestStack() {
             height="100px"
             width="100px"
             bgcolor="success.light"
-            p={1.9} // padding 1.9의 비율로 들어감 =rem, em?
+            p={1.875} // padding 1.9의 비율로 들어감 =rem, em?
             sx={{
               "&:hover": {
                 backgroundColor: "success.main",
